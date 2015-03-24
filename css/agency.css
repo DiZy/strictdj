@@ -272,6 +272,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    -webkit-text-stroke: 1px black;
 }
 
 header .intro-text {
