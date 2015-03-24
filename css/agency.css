@@ -13,10 +13,6 @@ body {
     color: #777;
 }
 
-.text-primary {
-    color: #fed136;
-}
-
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -32,10 +28,6 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-}
-
-a {
-    color: #fed136;
 }
 
 a:hover,
@@ -69,12 +61,11 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #fed136;
+    border-color: #fff;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #fed136;
 }
 
 .btn-primary:hover,
@@ -180,7 +171,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fec503;
+    color: #fff;
 }
 
 .navbar-default .navbar-collapse {
@@ -212,7 +203,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #fed136;
+    color: #fff;
 }
 
 .navbar-default .navbar-nav>.active>a {
