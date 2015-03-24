@@ -218,6 +218,8 @@ fieldset[disabled] .btn-xl.active {
     background-color: #2C2E2C;
 }
 
+
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -668,7 +670,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-    border-color: #fed136;
+    border-color: #337ab7;
     box-shadow: none;
 }
 
