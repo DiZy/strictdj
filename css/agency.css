@@ -631,6 +631,7 @@ section h3.section-subheading {
 .dan_img {
     height:480px;
     width:480px;
+    padding-left: 40px;
 }
 
 .team-member {
