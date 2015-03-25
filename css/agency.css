@@ -617,6 +617,20 @@ section h3.section-subheading {
     }
 }
 
+.david {
+    display: inline-block;
+    padding: 40px;
+}
+.david_img {
+    height: 480px;
+    width: 480px;
+}
+
+.dan_img {
+    height:480px;
+    width:480px;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
