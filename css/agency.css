@@ -617,13 +617,23 @@ section h3.section-subheading {
     }
 }
 
+.pictures {
+    display: inline-block;
+}
+
 .david {
     display: inline-block;
     padding-top: 40px;
     padding-bottom: 40px;
+    padding-right: 40px;
+}
+
+.dan {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
 }
 .david_img {
-    padding-right: 40px;
     height: 480px;
     width: 480px;
 }
@@ -631,7 +641,6 @@ section h3.section-subheading {
 .dan_img {
     height:480px;
     width:480px;
-    padding-left: 40px;
 }
 
 .team-member {
