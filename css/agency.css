@@ -627,6 +627,7 @@ section h3.section-subheading {
 }
 
 .dan {
+    top: 0;
     padding: 40px;
     display: inline-block;
 }
