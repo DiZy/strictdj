@@ -623,13 +623,13 @@ section h3.section-subheading {
 
 .david {
     padding: 40px;
-    display: inline-block;
+    float: left
 }
 
 .dan {
     top: 0;
     padding: 40px;
-    display: inline-block;
+    float: left;
 }
 .david_img {
     height: 480px;
